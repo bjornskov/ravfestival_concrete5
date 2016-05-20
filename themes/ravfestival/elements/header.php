@@ -1,6 +1,7 @@
 <?php
 defined('C5_EXECUTE') or die('Access Denied.');
 ?>
+
      
 <!DOCTYPE html>
 <html lang="<?php echo LANGUAGE?>">
@@ -21,8 +22,6 @@ defined('C5_EXECUTE') or die('Access Denied.');
     <!-- animated css  -->
     <link href="<?php echo $this->getThemePath(); ?>/css/animate.css" rel="stylesheet" type="text/css" media="screen">
     <!--web fonts-->
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,400italic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700|Roboto:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
     
     <!--owl carousel css-->

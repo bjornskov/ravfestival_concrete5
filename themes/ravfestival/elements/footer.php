@@ -73,8 +73,6 @@
 <a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
 
 
-<!-- Bootstrap JS fil -->
-<script src="<?php echo $this->getThemePath(); ?>/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <!-- Laver easing ved menu -->
 <script src="<?php echo $this->getThemePath(); ?>/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
 <!-- Holder menuen i toppen -->

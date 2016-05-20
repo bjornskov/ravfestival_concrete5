@@ -36,12 +36,12 @@ $this->inc('elements/header.php');
         </div><!--center heading-->
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center wow animated fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
-                <p class="lead margin-btm-30">
+                <div class="lead margin-btm-30">
                         <?php
                             $b = new Area('description1');
                             $b->display($c);
                         ?>
-                </p>
+                </div>
             </div>
         </div>
         
@@ -55,3 +55,4 @@ $this->inc('elements/header.php');
  ?>
 </div>
 <?php $this->inc('elements/footer.php'); ?>
+

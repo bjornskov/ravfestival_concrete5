@@ -17,17 +17,16 @@ $displayThirdColumn = $blocks > 0 || $c->isEditMode();
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="#"><img src="http://c5.amberfestival.dk/files/5214/6366/0394/header_logo.png" height="50"></a>
+                <a href="#"><img src="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/files/1614/6374/4868/header_logo.png" height="50"></a>
             </div>
             <div class="navbar-collapse collapse">
 
                 <ul class="nav navbar-nav navbar-right scrollto">
-                    <li><a href="#home">Forside</a></li>
-                    <li><a href="#about">Om os</a></li>
-                    <li><a href="#services">Produkter</a></li>
-                    <li><a href="#work">Portfolio</a></li>
-                    <li><a href="#pricing">Priser</a></li>
-                    <li><a href="#contact">Kontakt</a></li>
+                    <li><a href="/">Forside</a></li>
+                    <li><a href="/program">Program</a></li>
+                    <li><a href="/galleri">Galleri</a></li>
+                    <li><a href="/kontakt">Kontakt</a></li>
+                    <li><a href="/partnere">Partnere</a></li>
                 </ul>
 
             </div><!--/.nav-collapse -->

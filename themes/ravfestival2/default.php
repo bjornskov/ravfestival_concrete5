@@ -3,20 +3,7 @@ defined('C5_EXECUTE') or die('Access Denied.');
 $this->inc('elements/header.php');
 ?>
 
-	<section id="home" data-stellar-background-ratio="0.5" data-vide-bg="<?php echo $this->getThemePath(); ?>/video/amberfestival">
-    <div class="parallax-overlay"></div>
-    <a id="video" class="player"></a>
 
-    <div class="home-content text-center">
-        <div class="container">
-         <?php
-         $b = new Area('Countdown');
-         $b->display($c);
-         ?>
-        
-        </div>
-    </div>
-</section><!--home section end-->
 <div id="content">
     
     <section id="about" class="section-padding">

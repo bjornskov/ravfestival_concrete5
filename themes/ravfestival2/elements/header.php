@@ -17,7 +17,7 @@ $displayThirdColumn = $blocks > 0 || $c->isEditMode();
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="#"><img src="https://amberfestival.dk/application/files/7014/6400/0038/logo-ravfestival.png
+                <a href="/"><img src="https://amberfestival.dk/application/files/7014/6400/0038/logo-ravfestival.png
 
 " height="50"></a>
             </div>

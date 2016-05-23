@@ -3,7 +3,7 @@ defined('C5_EXECUTE') or die('Access Denied.');
 $this->inc('elements/header.php');
 ?>
 
-	<section id="home" data-stellar-background-ratio="0.5" data-vide-bg="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/themes/ravfestival2/video/amberfestival">
+	<section id="home" data-stellar-background-ratio="0.5" data-vide-bg="//amberfestival.dk/application/themes/ravfestival2/video/amberfestival">
     <div class="parallax-overlay"></div>
     <a id="video" class="player"></a>
 

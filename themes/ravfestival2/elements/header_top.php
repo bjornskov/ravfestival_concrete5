@@ -19,23 +19,23 @@
     </script>
     
         <!-- Bootstrap -->
-    <link href="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/themes/ravfestival2/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo $this->getThemePath(); ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- custom css -->
-    <link href="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/themes/ravfestival2/css/style.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="<?php echo $this->getThemePath(); ?>/css/style.css" rel="stylesheet" type="text/css" media="screen">
     <!-- font awesome for icons -->
-    <link href="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/themes/ravfestival2/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="<?php echo $this->getThemePath(); ?>/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <!--flex slider-->
-    <link href="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/themes/ravfestival2/css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="<?php echo $this->getThemePath(); ?>/css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
     <!-- animated css  -->
-    <link href="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/themes/ravfestival2/css/animate.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="<?php echo $this->getThemePath(); ?>/css/animate.css" rel="stylesheet" type="text/css" media="screen">
     <!--web fonts-->
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700|Roboto:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
     
     <!--owl carousel css-->
-    <link href="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/themes/ravfestival2/css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
-    <link href="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/themes/ravfestival2/css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="<?php echo $this->getThemePath(); ?>/css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="<?php echo $this->getThemePath(); ?>/css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
     <!--popups css-->
-    <link href="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/themes/ravfestival2/css/magnific-popup.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo $this->getThemePath(); ?>/css/magnific-popup.css" rel="stylesheet" type="text/css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>

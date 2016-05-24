@@ -77,11 +77,11 @@ label{
     margin-bottom: 30px;
 }
 ::selection {
-    background:#25CBF5; /* Safari */
+    background:#F08033; /* Safari */
     color: #fff;
 }
 ::-moz-selection {
-    background:#25CBF5; /* Firefox */
+    background:#F08033; /* Firefox */
     color: #fff;
 }
 /**********bootstrap navigation overrides***********/
@@ -105,7 +105,7 @@ label{
     font-family: 'Roboto', sans-serif;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-    color: #25CBF5;
+    color: #F08033;
     background-color: transparent;
 }
 .navbar-brand {
@@ -155,7 +155,7 @@ label{
     z-index: 3;
 }
 .colored-text{
-    color:#25CBF5;
+    color:#F08033;
 }
 h2.slide-btm-text{
 
@@ -262,10 +262,10 @@ h2.slide-btm-text{
 }
 .btn-dark:hover{
     color:#fff;
-    background-color: #25CBF5;
+    background-color: #F08033;
 }
 .btn-theme{
-    background-color: #25CBF5 !important;
+    background-color: #F08033 !important;
     color:#fff;
 }
 .btn-theme:hover{
@@ -308,12 +308,12 @@ h2.slide-btm-text{
     width: 130px;
     margin: 0 auto;
     position: relative;
-    color:  #25CBF5;
+    color:  #F08033;
 }
 .center-heading .icon:before {
     display: inline-block;
     content: "";
-    border-bottom: 1px solid #25CBF5;
+    border-bottom: 1px solid #F08033;
     position: absolute;
     left: 0;
     top: 10px;
@@ -322,7 +322,7 @@ h2.slide-btm-text{
 .center-heading .icon:after {
     display: inline-block;
     content: "";
-    border-bottom: 1px solid #25CBF5;
+    border-bottom: 1px solid #F08033;
     position: absolute;
     right: 0;
     top: 10px;
@@ -369,7 +369,7 @@ h2.slide-btm-text{
     -moz-transform: rotateY(360deg);
     -ms-transform: rotateY(360deg);
     -o-transform: rotateY(360deg);
-    background-color: #25CBF5;
+    background-color: #F08033;
     color:#fff;
 }
 .service-box h3{
@@ -440,7 +440,7 @@ h2.slide-btm-text{
     line-height: 30px;
 }
 #testi-carousel p{
-    color:#25CBF5;
+    color:#F08033;
 }
 /**cta**/
 .cta{
@@ -464,7 +464,7 @@ h2.slide-btm-text{
 /**cta-1**/
 .cta-1{
     padding: 40px 0;
-    background-color: #25CBF5;
+    background-color: #F08033;
 }
 /**cta-2**/
 .cta-2{
@@ -474,7 +474,7 @@ h2.slide-btm-text{
 /**cta-2**/
 .cta-3{
     padding: 40px 0;
-    background-color:#25CBF5;
+    background-color:#F08033;
 }
 .cta-3 h3{
     color:#fff;
@@ -492,14 +492,14 @@ h2.slide-btm-text{
     line-height: 70px;
     text-align: center;
     color:#fff;
-    background-color: #25CBF5;
+    background-color: #F08033;
     border-radius: 35px;
     -webkit-border-radius: 35px;
     margin-bottom: 10px;
     font-size: 30px;
 }
 .service-info h4{
-    color:#25CBF5;
+    color:#F08033;
     font-size: 24px;
     font-weight: 400;
 }
@@ -538,14 +538,14 @@ h2.slide-btm-text{
     transition: 0.7s ease-in-out;
 }
 .portfolio-filters li:hover{
-    background-color: #25CBF5;
+    background-color: #F08033;
     color:#fff;
-    border-color:#25CBF5;
+    border-color:#F08033;
 }
 .portfolio-filters li.active{
-    background-color: #25CBF5;
+    background-color: #F08033;
     color:#fff;
-    border-color:#25CBF5;
+    border-color:#F08033;
 }
 .work-desc{
     padding: 15px 0;
@@ -569,7 +569,7 @@ h2.slide-btm-text{
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     /* border-radius: 20px; */
-    background:#25CBF5  !important;
+    background:#F08033  !important;
 }
 /**owl**/
 .owl-theme .owl-controls .owl-page span {
@@ -582,7 +582,7 @@ h2.slide-btm-text{
     -webkit-border-radius: 0px !important;
     -moz-border-radius: 0px !important;
     border-radius: 0px !important;
-    background: #25CBF5 !important;
+    background: #F08033 !important;
 }
 
 /************************image hover effect*******************/
@@ -679,7 +679,7 @@ h2.slide-btm-text{
     text-align: center;
 }
 .plan-wrap.popular .price-title{
-    background-color: #25CBF5;
+    background-color: #F08033;
     color:#fff;
 }
 
@@ -691,7 +691,7 @@ h2.slide-btm-text{
     font-size: 17px;
 }
 .address-info p i{
-    color:#25CBF5;
+    color:#F08033;
     margin-right: 10px;
 }
 .address-info p{
@@ -714,7 +714,7 @@ h2.slide-btm-text{
 }
 .social li a i:hover{
     color:#fff;
-    background-color: #25CBF5;
+    background-color: #F08033;
 }
 
 .contact-form form .form-control{
@@ -793,7 +793,7 @@ input[type="color"]:focus,
     text-transform: uppercase;
 }
 .widget-title:first-letter{
-    border-bottom: 3px solid #25CBF5;
+    border-bottom: 3px solid #F08033;
 }
 .footer-col p{
     color:#d5d5d5;
@@ -827,7 +827,7 @@ input[type="color"]:focus,
     color:#d5d5d5;
 }
 .copyright a{
-    color:#25CBF5;
+    color:#F08033;
 }
 /*************soical icons**********/
 .social-1{
@@ -968,7 +968,7 @@ iframe {
     margin-left: 5px;
 }
 .cat-list li a:hover{
-    color:#25CBF5;
+    color:#F08033;
 }
 blockquote{
     color:#aaa;
@@ -988,7 +988,7 @@ blockquote{
     font-weight: 400;
 }
 .comment-list h4 a{
-    color:#25CBF5;
+    color:#F08033;
     margin-left: 8px;
 }
 .comment-list h4 a:hover{
@@ -1033,7 +1033,7 @@ h3.heading-progress {
 }
 .progress-bar {
     line-height: 10px;
-    background:#25CBF5;
+    background:#F08033;
     box-shadow: none;
     -webkit-box-shadow: none;
 }
@@ -1072,8 +1072,8 @@ h3.heading-progress {
     margin: 30px auto;
     width:120px;
     height: 6px;
-    border-top: 1px solid #25CBF5;
-    border-bottom: 1px solid #25CBF5;
+    border-top: 1px solid #F08033;
+    border-bottom: 1px solid #F08033;
     line-height: 10px;
 }
 .project-desc h4{
@@ -1131,7 +1131,7 @@ h3.heading-progress {
     right:0px;
     z-index: 999999;
     display:none;
-    background: #25CBF5;
+    background: #F08033;
     opacity:0.5;
     transition: all 0.3s;
 }
@@ -1158,7 +1158,7 @@ h3.heading-progress {
     font-family: 'FontAwesome';
     margin-right: 15px;
     font-size: 16px;
-    color:#25CBF5;
+    color:#F08033;
 }
 .tweet ul li .date{
     padding: 3px 0;
@@ -1178,7 +1178,7 @@ h3.heading-progress {
     font-size: 12px;
 }
 .tweet li a:hover{
-    color:#25CBF5;
+    color:#F08033;
 }
 /*******************easy pie chart*****************/
 /*******************************easy pie charts skills***************************/

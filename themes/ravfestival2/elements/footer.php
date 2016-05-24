@@ -83,7 +83,6 @@ $displayFirstSection = $footerSiteTitleBlocks > 0 || $footerSocialBlocks > 0 || 
 
 <a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
 <!-- Laver easing ved menu -->
 <script src="https://cdn.hiberniacdn.com/filer.amberfestival.dk/application/themes/ravfestival2/js/jquery.easing.1.3.min.js" type="text/javascript"></script>

@@ -95,11 +95,7 @@ $(function () {
 
 
 
-// Countdown for the header
 
-var newYear = new Date();
-newYear = new Date(2016, 9-1, 23);
-$('#defaultCountdown').countdown({until: newYear});
 
 
 //back to top

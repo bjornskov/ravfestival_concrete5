@@ -31,6 +31,9 @@
     <!--web fonts-->
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700|Roboto:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
     
+    <!-- Countdown script -->
+<script src="//amberfestival.dk/application/themes/ravfestival2/js/jquery.countdown.js" type="text/javascript"></script>
+    
     <!--owl carousel css-->
     <link href="<?php echo $this->getThemePath(); ?>/css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
     <link href="<?php echo $this->getThemePath(); ?>/css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">

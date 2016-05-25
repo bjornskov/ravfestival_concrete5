@@ -34,6 +34,31 @@ $a->display($c);
                 
             </div>
         </div><!--center heading-->
+        
+                <div class="col-md-12">
+            
+            
+            <?php
+$a = new Area('Over program');
+$a->display($c);
+?> 
+                    
+                    <div class="col-md-8 col-md-offset-2 text-center wow animated fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
+                <div class="lead margin-btm-30">
+                        <?php
+                            $b = new Area('description1');
+                            $b->display($c);
+                        ?>
+                </div>
+            </div>
+                
+            
+            
+
+            
+            </div>
+        
+        
         <div class="col-md-8">
             
             <div class="col-md-12 program-info">

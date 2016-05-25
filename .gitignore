@@ -1,3 +1,4 @@
 files/tmp/
 files/cache/
 config/database.php
+config/config.php

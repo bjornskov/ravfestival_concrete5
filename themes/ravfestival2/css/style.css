@@ -1344,3 +1344,7 @@ h3.heading-progress {
     margin-top: 10px;
 }
 
+.vivid-thumb-gallery img {
+    border-radius: 4px;
+}
+

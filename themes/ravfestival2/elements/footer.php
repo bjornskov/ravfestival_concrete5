@@ -18,8 +18,11 @@ $displayFirstSection = $footerSiteTitleBlocks > 0 || $footerSocialBlocks > 0 || 
                     <h3 class="widget-title">
                         Om Ravfestival
                     </h3>
-                    <p>
-                        There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or grandomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text
+                    <p>                
+                             <?php
+                             $a = new GlobalArea('AboutRav');
+                             $a->display($c);
+                             ?>
                     </p>
                 </div><!--footer-col-->
 

@@ -1,5 +1,4 @@
 files/tmp/
 files/cache/
-config/database.php
-config/config.php
-config/generated_overrides/concrete.php
+config/
+files/

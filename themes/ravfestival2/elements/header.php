@@ -25,8 +25,9 @@ $displayThirdColumn = $blocks > 0 || $c->isEditMode();
 
                 <ul class="nav navbar-nav navbar-right scrollto">
                     <li><a href="/">Forside</a></li>
+                    <li><a href="/nyheder">Nyheder</a></li>
                     <li><a href="/program">Program</a></li>
-                    <li><a href="/galleri">Galleri</a></li>
+                    <li><a href="/om-ravfestival">Om Ravfestival</a></li>
                     <li><a href="/kontakt">Kontakt</a></li>
                     <li><a href="/partnere">Partnere</a></li>
                 </ul>

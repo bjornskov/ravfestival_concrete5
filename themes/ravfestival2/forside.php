@@ -19,6 +19,8 @@ $this->inc('elements/header.php');
 </section><!--home section end-->
 <div id="content">
     
+    
+    
     <section id="about" class="section-padding">
     <div class="container">
         <div class="row">
@@ -47,7 +49,103 @@ $this->inc('elements/header.php');
         
     </div>
 </section><!--about section end-->
+
+<section id="dates" class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 margin-btm-30">
+                <div class="fact-inner">
+                    <div class="text-center">
+                    <h1><?php
+                            $b = new Area('dato1');
+                            $b->display($c);
+                        ?></h1>
+                    <h3><?php
+                            $b = new Area('september');
+                            $b->display($c);
+                        ?></h3>
+                        </div>
+                    
+                    <p class="text-justify"><?php
+                            $b = new Area('tekst1');
+                            $b->display($c);
+                        ?></p>
+                </div>
+            </div><!--facts col-->
+            <div class="col-md-4 margin-btm-30">
+                <div class="fact-inner">
+                    <div class="text-center">
+                    <h1><?php
+                            $b = new Area('dato2');
+                            $b->display($c);
+                        ?></h1>
+                    <h3><?php
+                            $b = new Area('september');
+                            $b->display($c);
+                        ?></h3>                    </div>
+
+                        <p class="text-justify"><?php
+                            $b = new Area('tekst2');
+                            $b->display($c);
+                        ?></p>
+                </div>
+            </div><!--facts col-->
+            <div class="col-md-4 margin-btm-30">
+                <div class="fact-inner">
+                    <div class="text-center">
+                    <h1><?php
+                            $b = new Area('dato3');
+                            $b->display($c);
+                        ?></h1>
+                    <h3><?php
+                            $b = new Area('september');
+                            $b->display($c);
+                        ?></h3></div>
+                        <p class="text-justify"><?php
+                            $b = new Area('tekst3');
+                            $b->display($c);
+                        ?></p>
+                    
+                </div>
+            </div><!--facts col-->
+        </div>
+    </div>
+    </section> 
     
+    
+    
+    <section id="about" class="section-padding">
+    <div class="container">
+        <div class="row">
+            
+                            <div class="text-center">
+                    <h2>
+                        <?php
+                            $b = new Area('title22');
+                            $b->display($c);
+                        ?>
+                    
+                    </h2>
+                                
+                                
+                                <div class="lead margin-btm-30">
+                        <?php
+                            $b = new Area('subtekst');
+                            $b->display($c);
+                        ?>
+                    
+                    
+                </div>
+                </div><!--center heading-->
+            
+            <?php
+                            $b = new Area('youtube');
+                            $b->display($c);
+                        ?>
+            
+        </div>
+    </div>
+    </section>    
     
  <?php
  $b = new Area('Main');

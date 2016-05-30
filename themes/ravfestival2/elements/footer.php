@@ -8,7 +8,15 @@ $displayFirstSection = $footerSiteTitleBlocks > 0 || $footerSocialBlocks > 0 || 
 
 ?>
 
-<?php defined('C5_EXECUTE') or die('Access Denied.'); ?>
+
+<div class="footer-btm">
+    <div class="copyright text-center">
+        <p>I samarbejde med</p>
+        <img style="max-width:200px; margin-left:15px; margin-right:15px;" src="//amberfestival.dk/application/files/3514/6453/3484/regionsyddanmark.png">
+        <img style="max-width:200px; margin-left:15px; margin-right:15px;" src="//amberfestival.dk/application/files/9314/6453/4017/naturkulturvarde.png">
+        <img style="max-width:200px; margin-left:15px; margin-right:15px;" src="//amberfestival.dk/application/files/8314/6453/4017/visitwestdanmark.png">
+    </div>
+</div><!--footer-btm-->
 
 <footer id="footer">
     <div class="container">
@@ -65,9 +73,9 @@ $displayFirstSection = $footerSiteTitleBlocks > 0 || $footerSocialBlocks > 0 || 
     </div>
 </div><!--footer-btm-->
 
+
 <a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-
 <script src="//amberfestival.dk/application/themes/ravfestival2/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
 <script src="//amberfestival.dk/application/themes/ravfestival2/js/jquery.sticky.js" type="text/javascript"></script>
 <script src="//amberfestival.dk/application/themes/ravfestival2/js/jquery.counterup.min.js" type="text/javascript"></script>

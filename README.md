@@ -1,6 +1,8 @@
 # Ravfestival
 Examproject for 2. semester of Multimedia Design. Website for the Amber festival of Vejers, Denmark.
 
+The website is available at ![http://ravfestival.bjornskov.eu/](http://ravfestival.bjornskov.eu/)
+
 ## Content from report
 
 ### Website design
